@@ -1,5 +1,5 @@
 import random
-print("______****WELCOME TO GAMING WORLD****_____")
+print("______****WELCOME TO GAMING WORLD*****_____")
 print("Winning Rules of the Rock paper scissor game as follows: \n"
       + "Rock vs paper->paper wins \n"
       + "Rock vs scissor->Rock wins \n"
